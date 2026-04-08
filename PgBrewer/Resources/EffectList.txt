@@ -18,7 +18,7 @@ Pale Ale;Max Peacebleness +1, Max Community +2, Max Cleanliness +2;;
 Pale Ale;Max Peacebleness +1, Max Community +1, Max Cleanliness +2;;
 Pale Ale;Dance Appreciation Extra-Effect Chance Boost +3%, Dance Appreciation Boost +3;;
 Pale Ale;Warden ability -2% power cost, Rabbit ability -1% power cost, Fox ability -1% power cost;;
-Pale Ale;Priest ability -2% power cost, Lycanthropy ability -1% power cost, Armor Patching ability -2% power cost;;
+Pale Ale;Priest ability -2% power cost, Weather Witching ability -1% power cost, Vampire ability -2% power cost;;
 Marzen;Armor Patching Ability Power Cost -2%, Lycanthropy Ability Power Cost -3%, Druid Ability Power Cost -3%;;
 Marzen;Bard Ability Power Cost -2%, Battle Chemistry Ability Power Cost -3%, Archery Ability Power Cost -3%;;
 Marzen;Breath Recovered Out of Water +1, Max Underwater Held Breath +4, Sprint-Swimming Speed Boost +0;Swimmer's;
