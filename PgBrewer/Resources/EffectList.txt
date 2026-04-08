@@ -1,4 +1,4 @@
-﻿Basic Lager;Chance for Your Attacks to Miss +33%, Sprint Boost (Out of Combat) +0;Partier's;
+Basic Lager;Chance for Your Attacks to Miss +33%, Sprint Boost (Out of Combat) +0;Partier's;
 Basic Lager;Jump Power +0.1;Partier's;
 Basic Lager;Dance Appreciation Boost +1;Partier's;
 Pale Ale;Pig ability -2% power cost, Deer ability -2% power cost, Cow ability -2% power cost;;
@@ -575,6 +575,7 @@ Applejack;(?) Taunt From Attack Damage +1%;Taunter's;
 Applejack;(?) Melee Accuracy Boost +4.5, Chance to Evade Melee +4.5%;;
 Applejack;(?) Max Health +9, Direct Nature Damage Reduction +5, Direct Cold Damage Reduction +5, Direct Slashing Damage Reduction +5;;
 Applejack;(?) Max Health +9, Direct Acid Damage Reduction +5, Direct Fire Damage Reduction +5, Direct Slashing Damage Reduction +5;;
+Applejack;(?) Max Health +1, Direct Slashing Damage Reduction +1, Direct Psychic Damage Reduction +1, Direct Sonic Damage Reduction +1;;
 Beet Vodka;(?) Burst Attacks +10 Damage to Elite
 Beet Vodka;(?) Chance for Your Attacks to Miss +33%, Sprint Boost (Out of Combat) +0.1
 Beet Vodka;(?) Chance to chop extra Perfect Wood +10%, Chance to chop extra wood +24%
